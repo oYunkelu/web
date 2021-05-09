@@ -1538,9 +1538,9 @@ background: #bbb;
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    padding: 8px 110px 8px 20px; /*8px 200px 8px 10px   8px 100px 8px 100px*/
+    padding: 8px 60px 8px 0px; /*8px 200px 8px 10px   8px 100px 8px 100px*/
     margin: 55px 0;
-    margin-left:-70px;
+    margin-left:-40px;
     width:100%;
     border: 1px solid #fff; /*999*/
     border-radius: 5px;
@@ -1847,6 +1847,7 @@ background: #bbb;
     font-size: 18px; /*18*/
     background: #fff;
     color: #fff;
+
     /* Center slide text vertically */
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1862,20 +1863,20 @@ background: #bbb;
     align-items: center;
   }
   #slider1 a {
-    width: 380px;
+    width: 320px;
     height: 280px;
     position: absolute;
     z-index: 2;
   }
   #image-slider1 {
-    width: 380px; /*500px*/
+    width: 320px; /*500px*/
     height: 280px; /*300px*/
     position: relative;
     z-index: 1;
     box-shadow: 0px 0px 18px rgba(151, 151, 151, 0.2);
   }
   #box {
-    width: 380px;
+    width: 320px;
     height: 280px;
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
@@ -1886,7 +1887,7 @@ background: #bbb;
   .p-slider1 {
     /*margin-top: 150px;*/
     top: 200px;
-    left: 30px;
+    left: 50px;
     /*top: 150px;
     margin-left: 20%;
     /*margin-right: 100%; /*1000px*/
