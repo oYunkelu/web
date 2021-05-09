@@ -1,0 +1,750 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 600,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "-X6R-qm2rkIC",
+      "etag": "hBd9iW88LnU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-X6R-qm2rkIC",
+      "volumeInfo": {
+        "title": "JQuery nyumon",
+        "subtitle": "Maho no JavaScript rifuarensu & sampuru",
+        "authors": ["高橋登史朗"],
+        "publisher": "秀和システム",
+        "publishedDate": "2009-12-05",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4798024511"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784798024516"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 395,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.co.jp/books/content?id=-X6R-qm2rkIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.co.jp/books/content?id=-X6R-qm2rkIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=-X6R-qm2rkIC&printsec=frontcover&dq=jquery&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=-X6R-qm2rkIC&dq=jquery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.co.jp/books/about/JQuery_nyumon.html?hl=&id=-X6R-qm2rkIC"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.co.jp/books/reader?id=-X6R-qm2rkIC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nhjV0RFfmogC",
+      "etag": "iJsko/lyzNI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nhjV0RFfmogC",
+      "volumeInfo": {
+        "title": "jQuery逆引きマニュアル",
+        "subtitle": "Webデザインの現場で役立つ基本と実践",
+        "authors": ["西畑一馬"],
+        "publisher": "株式会社インプレスジャパン",
+        "publishedDate": "2010-12",
+        "description": "jQueryの知識&テクニックを121項目にわたって解説。基本構文から、プラグインの活用・作成、イベント処理、多彩なフォームやアニメーションの実現、さらにはiPhone/iPadサイト作成まで完全網羅。項目ごとに初級・中級・上級のレベルを表示。目的別に引けるので、すぐに役立ちます。Webデザイン現場の必携書。",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784844329619"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4844329618"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 423,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.co.jp/books/content?id=nhjV0RFfmogC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.co.jp/books/content?id=nhjV0RFfmogC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=nhjV0RFfmogC&printsec=frontcover&dq=jquery&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=nhjV0RFfmogC&dq=jquery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.co.jp/books/about/jQuery%E9%80%86%E5%BC%95%E3%81%8D%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.html?hl=&id=nhjV0RFfmogC"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.co.jp/books/reader?id=nhjV0RFfmogC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "jQueryの知識&amp;テクニックを121項目にわたって解説。基本構文から、プラグインの活用・作成、イベント処理、多彩なフォームやアニメーションの実現、さらにはiPhone/iPadサイト作成 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1tJJagWlt4EC",
+      "etag": "Y78F6ko1Wyg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1tJJagWlt4EC",
+      "volumeInfo": {
+        "title": "jQueryによるWebサービス活用ワザ実践サンプル集",
+        "authors": ["葛西秋雄"],
+        "publisher": "秀和システム",
+        "publishedDate": "2010-06-01",
+        "description": "「Yahoo!Pipes」と「YQL」をブリッジとして活用する方法を紹介。「Google Maps」+「賃貸物件検索サービス」「グルメ検索サービス」「ガソリン価格情報サービス」、etc.で地図をフル活用。「Amazon」「楽天」「Yahoo!オークション」、etc.を組み合わせてWebサイトの魅力アップ!「YouTube」「Twitter」「Flickr」「Google検索」、etc.もアイデア次第で。",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "479802631X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784798026312"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 377,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.co.jp/books/content?id=1tJJagWlt4EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.co.jp/books/content?id=1tJJagWlt4EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=1tJJagWlt4EC&printsec=frontcover&dq=jquery&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=1tJJagWlt4EC&dq=jquery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.co.jp/books/about/jQuery%E3%81%AB%E3%82%88%E3%82%8BWeb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%B4%BB%E7%94%A8%E3%83%AF.html?hl=&id=1tJJagWlt4EC"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.co.jp/books/reader?id=1tJJagWlt4EC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "「Yahoo!Pipes」と「YQL」をブリッジとして活用する方法を紹介。「Google Maps」+「賃貸物件検索サービス」「グルメ検索サービス」「ガソリン価格情報サービス」、etc ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zfKJLmHO5DAC",
+      "etag": "ttt3pDubURY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zfKJLmHO5DAC",
+      "volumeInfo": {
+        "title": "実践!Ajaxフレームワーク jQuery",
+        "authors": ["古籏一浩"],
+        "publisher": "マイナビ出版",
+        "publishedDate": "2008-06",
+        "description": "最新ライブラリを使う。 軽量かつ高機能なJavaScriptライブラリである“jQuery(ジェイクエリー)”では、Webページにおける多種多様な処理を‘短く簡潔に’記述することが可能です。というのもjQueryで使われるのはCSS(スタイルシート)でのセレクタ指令とほぼ同じで、HTML要素、スタイルシートクラス等を指定して命令するだけでかなりの処理を行うことができますので、“Webデザイナ向き”のAjaxフレームワークと言えるでしょう。結果のコードも短く簡潔なものとなります。 本書ではJavaScriptにあまりなじみのない方でも理解できるよう、jQueryの各命令を取り入れたWebページのサンプルを数多く盛り込みました。誌面を眺めるだけで、jQueryで何ができるようになるのかが直感的に分かるかと思います。またプラグインを活用してUIを強化する方法や、Prototypeなど他のライブラリと共存させjQueryではできない部分を補う方法についても紹介します。 注目の最新ライブラリjQueryを詳説。 【jQuery 1.2対応】",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784839928544"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4839928541"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 251,
+        "printType": "BOOK",
+        "categories": ["Crafts & Hobbies"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.co.jp/books/content?id=zfKJLmHO5DAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.co.jp/books/content?id=zfKJLmHO5DAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=zfKJLmHO5DAC&printsec=frontcover&dq=jquery&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=zfKJLmHO5DAC&dq=jquery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.co.jp/books/about/%E5%AE%9F%E8%B7%B5_Ajax%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF_jQuery.html?hl=&id=zfKJLmHO5DAC"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2365.0,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 2128.0,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "http://books.google.co.jp/books?id=zfKJLmHO5DAC&dq=jquery&hl=&buy=&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2.365e9,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 2.128e9,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%AE%9F%E8%B7%B5_Ajax%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF_jQuery-sample-pdf.acsm?id=zfKJLmHO5DAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://books.google.co.jp/books/reader?id=zfKJLmHO5DAC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "最新ライブラリを使う。 軽量かつ高機能なJavaScriptライブラリである“jQuery(ジェイクエリー)”では、Webページにおける多種多様な処理を‘短く簡潔に’記述することが可能です ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vTnaNbAEZzkC",
+      "etag": "x6l19mObVi8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vTnaNbAEZzkC",
+      "volumeInfo": {
+        "title": "10日でおぼえる jQuery入門教室",
+        "authors": ["山田祥寛"],
+        "publisher": "翔泳社",
+        "publishedDate": "2013-03-25",
+        "description": "Webサイト制作の流れに沿って、やさしく学べる 本書は、JavaScriptライブラリ「jQuery」を使いこなすための学習書です。jQueryは、CSSにとても近い記述方法を採用しているため、プログラマはもちろん、Webデザイナーにとっても扱いやすく、JavaScriptの本命ライブラリとして、Webサイト制作の現場で活用されています。本書では、jQueryの導入や記述方法はもちろん、主要なライブラリやプラグインの使い方、各種イベントの実装やカスタマイズ方法をやさしく解説しています。プログラミングの知識がない人でも、手を動かしながら自分のペースで進めることができるので、確実に習得できます ※本電子書籍は同名出版物を底本とし作成しました。記載内容は印刷出版当時のものです。 ※印刷出版再現のため電子書籍としては不要な情報を含んでいる場合があります。 ※印刷出版とは異なる表記・表現の場合があります。予めご了承ください。 (翔泳社)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784798127095"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4798127094"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": ["Technology & Engineering"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.324.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.co.jp/books/content?id=vTnaNbAEZzkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.co.jp/books/content?id=vTnaNbAEZzkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=vTnaNbAEZzkC&printsec=frontcover&dq=jquery&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=vTnaNbAEZzkC&dq=jquery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.co.jp/books/about/10%E6%97%A5%E3%81%A7%E3%81%8A%E3%81%BC%E3%81%88%E3%82%8B_jQuery%E5%85%A5%E9%96%80%E6%95%99%E5%AE%A4.html?hl=&id=vTnaNbAEZzkC"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3024.0,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 2722.0,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "http://books.google.co.jp/books?id=vTnaNbAEZzkC&dq=jquery&hl=&buy=&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.024e9,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 2.722e9,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/10%E6%97%A5%E3%81%A7%E3%81%8A%E3%81%BC%E3%81%88%E3%82%8B_jQuery%E5%85%A5%E9%96%80%E6%95%99%E5%AE%A4-sample-pdf.acsm?id=vTnaNbAEZzkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://books.google.co.jp/books/reader?id=vTnaNbAEZzkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Webサイト制作の流れに沿って、やさしく学べる 本書は、JavaScriptライブラリ「jQuery」を使いこなすための学習書です。jQueryは、CSSにとても近い記述方法を採用しているため、プロ ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Sc2wFKG4L1QC",
+      "etag": "cK23KX525Gg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Sc2wFKG4L1QC",
+      "volumeInfo": {
+        "title": "WebデザイナーのためのjQuery入門",
+        "publisher": "株式会社 技術評論社",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784774150895"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4774150894"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.co.jp/books/content?id=Sc2wFKG4L1QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.co.jp/books/content?id=Sc2wFKG4L1QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=Sc2wFKG4L1QC&printsec=frontcover&dq=jquery&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=Sc2wFKG4L1QC&dq=jquery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.co.jp/books/about/Web%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEjQuery%E5%85%A5.html?hl=&id=Sc2wFKG4L1QC"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3110.0,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 2799.0,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "http://books.google.co.jp/books?id=Sc2wFKG4L1QC&dq=jquery&hl=&buy=&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.11e9,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 2.799e9,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/Web%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEjQuery%E5%85%A5-sample-pdf.acsm?id=Sc2wFKG4L1QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://books.google.co.jp/books/reader?id=Sc2wFKG4L1QC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B1xdpS5sbAsC",
+      "etag": "sc8JO7eOLM4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B1xdpS5sbAsC",
+      "volumeInfo": {
+        "title": "jQuery Mobileパーフェクトガイド",
+        "subtitle": "基本からデザインカスタマイズ、パフォーマンスアップまで",
+        "authors": ["吉川徹"],
+        "publisher": "株式会社インプレスジャパン",
+        "publishedDate": "2012-08",
+        "description": "iQuery Mobileを使ったサイト制作の基本から実践までを解説。まずは、フォームやリスト、ツールバー、テーマなど、各種マークアップの方法を幅広く説明。さらに、デフォルトデザインのカスタマイズ、JavaScriptによる設定変更、パフォーマンスアップ、セキュリティの強化など、実用的なテクニックを紹介します。jQuery Mobileのさまざまな手法を網羅的に学ぶことができて、現場でも活用できる入門書。",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784844332664"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "484433266X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 375,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.co.jp/books/content?id=B1xdpS5sbAsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.co.jp/books/content?id=B1xdpS5sbAsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=B1xdpS5sbAsC&printsec=frontcover&dq=jquery&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=B1xdpS5sbAsC&dq=jquery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.co.jp/books/about/jQuery_Mobile%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%AC%E3%82%A4%E3%83%89.html?hl=&id=B1xdpS5sbAsC"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.co.jp/books/reader?id=B1xdpS5sbAsC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "iQuery Mobileを使ったサイト制作の基本から実践までを解説。まずは、フォームやリスト、ツールバー、テーマなど、各種マークアップの方法を幅広く説明。さらに、デフォルトデ ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I2XSk9MJzM4C",
+      "etag": "hFrjXXPJ2mI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I2XSk9MJzM4C",
+      "volumeInfo": {
+        "title": "jQuery UI+厳選プラグイン41 実践サンプル集",
+        "authors": ["葛西秋雄"],
+        "publisher": "秀和システム",
+        "publishedDate": "2009-12-20",
+        "description": "リッチWebを手軽に実現する!jQuery UIとプラグインの「使える」サンプルを満載。",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4798024570"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784798024578"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 391,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.co.jp/books/content?id=I2XSk9MJzM4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.co.jp/books/content?id=I2XSk9MJzM4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=I2XSk9MJzM4C&pg=PA14&dq=jquery&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=I2XSk9MJzM4C&dq=jquery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.co.jp/books/about/jQuery_UI+%E5%8E%B3%E9%81%B8%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B341_%E5%AE%9F%E8%B7%B5.html?hl=&id=I2XSk9MJzM4C"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.co.jp/books/reader?id=I2XSk9MJzM4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "葛西秋雄. デフオルトのブラウザひ^ )にヒ&amp;X ,ヒ III 力《表示されます。このとき、黄色の\u003cbr\u003e\n背景色で「セキュリテイ保護のため、&#39; ...」のメッセージが表示されますので、黄色の部分\u003cbr\u003e\nをクリックしてコンテキストメニューから「ブロックされているコンテンッを許可」をクリックし\u003cbr\u003e\n&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D9FMBAAAQBAJ",
+      "etag": "giDDvAe0XB0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D9FMBAAAQBAJ",
+      "volumeInfo": {
+        "title": "改訂新版jQuery本格入門",
+        "authors": ["沖林正紀"],
+        "publisher": "株式会社 技術評論社",
+        "publishedDate": "2014-08-18",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784774167008"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4774167002"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.co.jp/books/content?id=D9FMBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.co.jp/books/content?id=D9FMBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=D9FMBAAAQBAJ&pg=PA185&dq=jquery&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=D9FMBAAAQBAJ&dq=jquery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.co.jp/books/about/%E6%94%B9%E8%A8%82%E6%96%B0%E7%89%88jQuery%E6%9C%AC%E6%A0%BC%E5%85%A5%E9%96%80.html?hl=&id=D9FMBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3564.0,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 3208.0,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "http://books.google.co.jp/books?id=D9FMBAAAQBAJ&dq=jquery&hl=&buy=&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.564e9,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 3.208e9,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E6%94%B9%E8%A8%82%E6%96%B0%E7%89%88jQuery%E6%9C%AC%E6%A0%BC%E5%85%A5%E9%96%80-sample-pdf.acsm?id=D9FMBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://books.google.co.jp/books/reader?id=D9FMBAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "S ( &#39; S は \u003cb\u003ejQuery\u003c/b\u003e だけのものじゃない! ! &quot; ) ; }); //]]&gt;&lt;/script&gt; / / S は \u003cb\u003ejQuery\u003c/b\u003e よりも前に\u003cbr\u003e\n定義した関数変数 jq は \u003cb\u003ejQuery\u003c/b\u003e を表す&quot;=ページがらのメッセージ『図』 4、 g は \u003cb\u003ejQuery\u003c/b\u003e \u003cbr\u003e\nだけのものじゃない! ○図 5 - 6 \u003cb\u003ejQuery\u003c/b\u003e オブジェクトを S とは別の変数で代替 noConfict\u003cbr\u003e\n&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j-2v5q2SsWMC",
+      "etag": "3w6kseZpQJ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j-2v5q2SsWMC",
+      "volumeInfo": {
+        "title": "jQuery Mobile本格入門 ~スマートフォンのデザイン・開発の効率化からWebアプリケーション構築まで",
+        "publisher": "株式会社 技術評論社",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784774156576"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4774156574"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.co.jp/books/content?id=j-2v5q2SsWMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.co.jp/books/content?id=j-2v5q2SsWMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=j-2v5q2SsWMC&pg=PA31&dq=jquery&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=j-2v5q2SsWMC&dq=jquery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http://books.google.co.jp/books/about/jQuery_Mobile%E6%9C%AC%E6%A0%BC%E5%85%A5%E9%96%80_%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88.html?hl=&id=j-2v5q2SsWMC"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3456.0,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 3110.0,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "http://books.google.co.jp/books?id=j-2v5q2SsWMC&dq=jquery&hl=&buy=&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.456e9,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 3.11e9,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/jQuery_Mobile%E6%9C%AC%E6%A0%BC%E5%85%A5%E9%96%80_%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88-sample-pdf.acsm?id=j-2v5q2SsWMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://books.google.co.jp/books/reader?id=j-2v5q2SsWMC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003ejQuery\u003c/b\u003e Mobile の CSS ソースコード http://COdejquery.COm/nObile/l.2.O \u003cb\u003ejquery\u003c/b\u003e.\u003cbr\u003e\nnObile-l.2.O.min.CSS http://ajaxaspnetCdn.COm/ajax/\u003cb\u003ejquery\u003c/b\u003e. mobile/l.2.O/\u003cb\u003ejquery\u003c/b\u003e.\u003cbr\u003e\nnObile-l.2.O.nin. CSS / \u003cb\u003ejQuery\u003c/b\u003e の JavaScript ソースコード http://COde.jC Uery."
+      }
+    }
+  ]
+}

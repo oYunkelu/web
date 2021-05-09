@@ -1,0 +1,497 @@
+@charset "UTF-8";
+/*----------------------------------------------
+PC基本形
+------------------------------------------------*/
+@media (min-width: 650px) and (max-width: 1000px) {
+  /*初期設定
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー*/
+  body {
+    margin: 0;
+    padding: 0;
+    font-size: small;
+    color: #333;
+    background: #fff;
+  }
+  section,
+  article,
+  aside,
+  nav,
+  header,
+  main,
+  footer {
+    display: block;
+  }
+  /*ページの枠組み
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー*/
+  header {
+    background: rgb(212, 212, 212);
+    height: 80px;
+  }
+  #page {
+    margin: 0 auto;
+    width: 100%; /*100% 1500px*/
+    height: 80px;
+    background: rgb(212, 212, 212);
+    margin-top: -10px;
+  }
+  main {
+    /*float: right;*/
+    width: 100%; /*70% 1000px 700px　70%*/
+    height: 500px;
+    margin-top: 40px;
+    margin-right: 20%;
+    margin-left: 10%;
+    margin-bottom: 20px;
+    /*background: yellow;*/
+  }
+  footer {
+    clear: both;
+    width: 100%;
+    height: 100px;
+    margin-top: 250px;
+    background: rgb(212, 212, 212);
+  }
+  footer section {
+    float: left;
+    width: 500px; /*280*/
+  }
+  footer section:nth-child(2) {
+    margin: 0 30px;
+  }
+  .footer-p {
+    margin-left: 10%;
+  }
+  footer p a {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 15px;
+    float: left;
+    color: black;
+    text-decoration: none;
+  }
+  footer p a:hover {
+    text-decoration: underline;
+  }
+
+  #copyright {
+    clear: both;
+  }
+
+  /*ヘッダー
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー*/
+  /*header,
+footer {
+  text-align: center;
+  color: #fff;
+  background: #bbb;
+}*/
+
+  .container {
+    display: flex;
+    /*float: left;*/
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+    margin: 5px 0;
+    padding-top: 10px;
+  }
+  .logo {
+    /*margin: 15 0px 0 100px;*/
+    margin-right: 42%;
+    margin-left: 0%;
+  }
+  .logo a {
+    text-decoration: none;
+    color: black;
+  }
+  .regist {
+    color: black;
+    font-size: 16px;
+  }
+  .regist a {
+    color: rgb(5, 172, 238);
+    font-size: 16px;
+    text-decoration: none;
+  }
+
+  .regist a:hover {
+    text-decoration: underline;
+  }
+  h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+
+  /*main
+-----------------------------------------------------*/
+  /*.jumbotron{
+  background-color:rgb(241, 241, 241);
+  width: 600px;
+  height:200px;
+  padding:20px;
+  font-size:18px;
+}*/
+  form {
+    background-color: rgb(241, 241, 241);
+    width: 600px;
+    height: 450px;
+    padding: 30px;
+  }
+  .kihon {
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-weight: 400;
+  }
+  label {
+    display: block; /* これなしだとwidthが効かない */
+    width: 600px;
+    /*margin: 10px 0;*/
+    padding-bottom: 10px;
+    background: #efefef;
+    font-size: 18px;
+    color: rgb(107, 107, 107);
+    border-bottom: 1px solid rgb(189, 189, 189);
+  }
+  .sousin {
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 20%;
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(5, 172, 238);
+    border: none;
+  }
+}
+
+/*-----------------------------------------------
+PC大画面
+-------------------------------------------------*/
+
+@media (min-width: 1000px) and (max-width: 5000px) {
+  /*初期設定
+  ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー*/
+  body {
+    margin: 0;
+    padding: 0;
+    font-size: small;
+    color: #333;
+    background: #fff;
+  }
+  section,
+  article,
+  aside,
+  nav,
+  header,
+  main,
+  footer {
+    display: block;
+  }
+  /*ページの枠組み
+  ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー*/
+  header {
+    background: rgb(212, 212, 212);
+    height: 80px;
+  }
+  #page {
+    margin: 0 auto;
+    width: 100%; /*100% 1500px*/
+    height: 80px;
+    background: rgb(212, 212, 212);
+    margin-top: -10px;
+  }
+  main {
+    /*float: right;*/
+    width: 100%; /*70% 1000px 700px　70%*/
+    height: 500px;
+    margin-top: 40px;
+    margin-right: 20%;
+    margin-left: 25%;
+    margin-bottom: 20px;
+    /*background: yellow;*/
+  }
+  footer {
+    clear: both;
+    width: 100%;
+    height: 100px;
+    margin-top: 250px;
+    background: rgb(212, 212, 212);
+  }
+  footer section {
+    float: left;
+    width: 500px; /*280*/
+  }
+  footer section:nth-child(2) {
+    margin: 0 30px;
+  }
+  .footer-p {
+    margin-left: 25%;
+  }
+  footer p a {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 15px;
+    float: left;
+    color: black;
+    text-decoration: none;
+  }
+  footer p a:hover {
+    text-decoration: underline;
+  }
+
+  #copyright {
+    clear: both;
+  }
+
+  /*ヘッダー
+  ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー*/
+  /*header,
+  footer {
+    text-align: center;
+    color: #fff;
+    background: #bbb;
+  }*/
+
+  .container {
+    display: flex;
+    /*float: left;*/
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+    margin: 5px 0;
+    padding-top: 10px;
+  }
+  .logo {
+    /*margin: 15 0px 0 100px;*/
+    margin-right: 42%;
+    margin-left: 10%;
+  }
+  .logo a {
+    text-decoration: none;
+    color: black;
+  }
+  .regist {
+    color: black;
+    font-size: 16px;
+  }
+  .regist a {
+    color: rgb(5, 172, 238);
+    font-size: 16px;
+    text-decoration: none;
+  }
+
+  .regist a:hover {
+    text-decoration: underline;
+  }
+  h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+
+  /*main
+  -----------------------------------------------------*/
+  /*.jumbotron{
+    background-color:rgb(241, 241, 241);
+    width: 600px;
+    height:200px;
+    padding:20px;
+    font-size:18px;
+  }*/
+  form {
+    background-color: rgb(241, 241, 241);
+    width: 600px;
+    height: 450px;
+    padding: 30px;
+  }
+  .kihon {
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-weight: 400;
+  }
+  label {
+    display: block; /* これなしだとwidthが効かない */
+    width: 600px;
+    /*margin: 10px 0;*/
+    padding-bottom: 10px;
+    background: #efefef;
+    font-size: 18px;
+    color: rgb(107, 107, 107);
+    border-bottom: 1px solid rgb(189, 189, 189);
+  }
+  .sousin {
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 20%;
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(5, 172, 238);
+    border: none;
+  }
+}
+
+/*-----------------------------------------------
+スマホ
+-------------------------------------------------*/
+
+@media (min-width: 0px) and (max-width: 650px) {
+  /*初期設定
+  ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー*/
+  body {
+    margin: 0;
+    padding: 0;
+    font-size: small;
+    color: #333;
+    background: #fff;
+  }
+  section,
+  article,
+  aside,
+  nav,
+  header,
+  main,
+  footer {
+    display: block;
+  }
+  /*ページの枠組み
+  ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー*/
+  header {
+    background: rgb(212, 212, 212);
+    height: 80px;
+  }
+  #page {
+    margin: 0 auto;
+    width: 100%; /*100% 1500px*/
+    height: 80px;
+    background: rgb(212, 212, 212);
+    margin-top: -10px;
+  }
+  main {
+    /*float: right;*/
+    width: 100%; /*70% 1000px 700px　70%*/
+    height: 500px;
+    margin-top: 40px;
+    margin-right: 20%;
+    margin-left: 5%;
+    margin-bottom: 20px;
+    /*background: yellow;*/
+  }
+  footer {
+    clear: both;
+    width: 100%;
+    height: 100px;
+    margin-top: 250px;
+    background: rgb(212, 212, 212);
+  }
+  footer section {
+    float: left;
+    width: 500px; /*280*/
+  }
+  footer section:nth-child(2) {
+    margin: 0 30px;
+  }
+  .footer-p {
+    margin-left: 10%;
+  }
+  footer p a {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 15px;
+    float: left;
+    color: black;
+    text-decoration: none;
+  }
+  footer p a:hover {
+    text-decoration: underline;
+  }
+
+  #copyright {
+    clear: both;
+  }
+
+  /*ヘッダー
+  ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー*/
+  /*header,
+  footer {
+    text-align: center;
+    color: #fff;
+    background: #bbb;
+  }*/
+
+  .container {
+    display: flex;
+    /*float: left;*/
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+    margin: 5px 0;
+    padding-top: 10px;
+  }
+  .logo {
+    /*margin: 15 0px 0 100px;*/
+    margin-right: 42%;
+    margin-left: 0%;
+  }
+  .logo a {
+    text-decoration: none;
+    color: black;
+  }
+  .regist {
+    color: black;
+    font-size: 16px;
+  }
+  .regist a {
+    color: rgb(5, 172, 238);
+    font-size: 16px;
+    text-decoration: none;
+  }
+
+  .regist a:hover {
+    text-decoration: underline;
+  }
+  h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+
+  /*main
+  -----------------------------------------------------*/
+  /*.jumbotron{
+    background-color:rgb(241, 241, 241);
+    width: 600px;
+    height:200px;
+    padding:20px;
+    font-size:18px;
+  }*/
+  form {
+    background-color: rgb(241, 241, 241);
+    width: 350px;
+    height: 450px;
+    padding: 30px 10px 30px 10px;
+  }
+  .kihon {
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-weight: 400;
+  }
+  label {
+    display: block; /* これなしだとwidthが効かない */
+    width: 350px;
+    /*margin: 10px 0;*/
+    padding-bottom: 10px;
+    background: #efefef;
+    font-size: 15px;
+    color: rgb(107, 107, 107);
+    border-bottom: 1px solid rgb(189, 189, 189);
+  }
+  .sousin {
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 10%;
+    padding: 10px 20px 10px 20px;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(5, 172, 238);
+    border: none;
+  }
+}
