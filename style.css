@@ -40,8 +40,6 @@ PC基本形
     height: 1000px;
     margin-top: 100px;
     margin-right: 20px;
-    /*margin-left: 30px;*/
-    /*background: yellow;*/
   }
   /*#slide {
     float: left;
@@ -52,7 +50,6 @@ PC基本形
     float: left;
     width: 20%; /*200px*/
     margin-left: 10%; /*50px*/
-    /*margin-right: 5%; /*20px*/
     margin-top: 100px;
   }
   footer {
@@ -105,15 +102,6 @@ footer {
     margin: 10px 0;/*5px 0*/
     padding-top: 10px;
   }
-  /*#search {
-    margin-top: 0px;
-  }
-  #search input[type="text"] {
-    border: none;
-    background: #fff;
-    padding: 8px;
-    border-radius: 5px;
-  }*/
   #search input {
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -196,8 +184,6 @@ footer {
     margin-left: 10%;
     color: black;
     font-size: 16px;
-
-    /*float: left;*/
   }
   #setumei a {
     color: rgb(5, 172, 238);
@@ -225,7 +211,6 @@ footer {
     font-size: 13px;
     text-align: center;
     padding-bottom: 0px;
-    /*height: 50px; /*100px*/
   }
 
   #content ul {
@@ -234,18 +219,14 @@ footer {
     float: left;
     width: 200px;
     height: 400px;
-    /*background: gainsboro;
     /* 定義 */
     /*table-layout: fixed; /*無くすとタイトルの欄が小さくなる*/
   }
 
   #content li {
-    /*height: 200px;*/
     text-align: center;
     padding-left: 10px;
     list-style-type: none;
-    /*border: 1px solid black /*#666*
-    color: black;
     /* 定義 */
     cursor: pointer;
     vertical-align: top;
@@ -281,23 +262,18 @@ footer {
 
   nav ul {
     overflow: hidden;
-    /*margin: 0 0 10px 0;*/
     margin-left: 20%;
     margin-right: 10%;
     padding: 0;
-    /*border: 1px solid #ddd;*/
     line-height: 1;
     background: url(images/) repeat-x bottom;
   }
   nav li,
   a {
     display: block;
-    /*font-size: 30px;*/
   }
   nav li {
-    /*display: flex;*/
     float: left;
-    /*border-right: 1px solid #ddd;*/
     margin-left: 10%;
   }
   nav a {
@@ -324,8 +300,6 @@ footer {
     overflow-x: hidden; /*auto　画面幅ぴったりになる　広がらない*/
     margin-left: 10px;
     margin-right: 10px;
-    /*padding-bottom: 50px;*/
-    /*border-bottom: 1px solid #ddd;*/
   }
 
   .swiper-container-slider1-big {
@@ -337,12 +311,9 @@ footer {
 
   #slider1 {
     /*.swiper-slide*/
-    /*text-align: center;*/
     font-size: 18px; /*18*/
     background: #fff;
     color: #fff;
-    /*background: gray;
-    height:200px;*/
 
     /* Center slide text vertically */
     display: -webkit-box;
@@ -376,16 +347,12 @@ footer {
     height: 300px;
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
-    /*padding-top:200px;*/
     position: absolute;
     z-index: 2;
   }
   .p-slider1 {
     top: 200px;
     left: 80px;
-    /*margin-top: 150px;
-    /*margin-right: 60px;
-    /*margin-right: 100%; /*1000px*/
     text-align: left;
     color: white;
     font-size: 25px;
@@ -395,7 +362,6 @@ footer {
 
   .swiper-button-prev,
   .swiper-button-next {
-    /*display: none;*/
     /*background-image: none; /* デフォルトのボタン画像を消す */
     width: 18px; /* ボタンの幅 */
     height: 18px; /*56px 86px ボタンの高さ */
@@ -403,12 +369,9 @@ footer {
     top: 350px;
     padding: 15px;
     color: white;
-    /*font-size: 18px;*/
     background-color: rgb(214, 214, 214);
     border-radius: 30px;
     border: 2px solid white;
-    /*background-size: 48px 48px;
-    /*opacity: 0;*/
   }
   /*.swiper-button-next {
     background-image: url(images/mark.png);
@@ -441,9 +404,7 @@ footer {
   }
   .swiper-pagination {
     color: black;
-    /*margin-bottom: 350px; /*top 500px 150px*/
     top: 520px;
-    /*background: black;*/
     height: 50px; /*解決：topにするとoptionが開かない現象*/
   }
 
@@ -453,8 +414,6 @@ footer {
   .side {
     float: left;
     padding-top: 20px;
-    /*padding-bottom: -20px;
-  /*width: 100%;*/
     height: 80px; /*60px*/
   }
 
@@ -543,17 +502,10 @@ footer {
   }
 
   .swiper-container-slider2 {
-    /*display: block;*/
-    /*max-width: 850px;*/
     overflow-x: hidden; /*auto*/
     width: 100%; /*70% 600px 100%*/
     height: 400px; /*100% 300px*/
-    /*padding-bottom: 50px;*/
     margin-top: 20px;
-    /*padding-top: 20px;
-    /*padding-left: 10px;
-  /*padding: 100px;*/
-    /*float: left;*/
   }
   #wrapper-slider2 {
     width: 100%;
@@ -561,15 +513,7 @@ footer {
     /*padding-left: 20px;*/
   }
   #slider2 {
-    /*.swiper-slide*/
-    /*color: #ffffff;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  line-height: 250px;*/
-    /*text-align: center;*/
     font-size: 18px; /*18*/
-    /*background: #fff;*/
     color: #fff;
     float: left;
 
@@ -615,12 +559,10 @@ footer {
     color: black;
     padding: 5px;
     background-color: rgb(219, 219, 219, 0);
-    /*border-radius: 30px;*/
     border: 2px solid rgb(219, 219, 219, 0);
   }
 
   .c-banner--overlay a {
-    /*width: 70%; /*200px*/
     text-decoration: none;
   }
   .c-banner-link {
@@ -723,7 +665,6 @@ PC大画面
 @media (min-width: 1000px) and (max-width: 5000px) {
   /*変更点*/
   .swiper-container-slider1 {
-    /*display: none;*/
     width: 100%; /*100%*/
     height: 350px; /*100%*/
     overflow-x: hidden; /*auto*/
@@ -732,8 +673,6 @@ PC大画面
   }
   .swiper-container-slider1-big {
     display: none;
-    /*width: 100%; /*100%*/
-    /*height: 350px; /*100%*/
   }
   .swiper-container-slider1-smartphone {
     display: none;
@@ -777,8 +716,6 @@ PC大画面
     height: 1000px;
     margin-top: 50px;
     margin-right: 20px;
-    /*margin-left: 30px;*/
-    /*background: yellow;*/
   }
   #slide {
     float: left;
@@ -842,15 +779,6 @@ background: #bbb;
     margin: 5px 0;
     padding-top: 10px;
   }
-  /*#search {
-    margin-top: 0px;
-  }
-  #search input[type="text"] {
-    border: none;
-    background: #fff;
-    padding: 8px;
-    border-radius: 5px;
-  }*/
 
   #search input {
     -webkit-appearance: none;
@@ -973,7 +901,6 @@ background: #bbb;
     font-size: 13px;
     text-align: center;
     padding-bottom: 0px;
-    /*height: 50px; /*100px*/
   }
 
   #content ul {
@@ -982,18 +909,14 @@ background: #bbb;
     float: left;
     width: 200px;
     height: 400px;
-    /*background: gainsboro;
   /* 定義 */
     /*table-layout: fixed; /*無くすとタイトルの欄が小さくなる*/
   }
 
   #content li {
-    /*height: 200px;*/
     text-align: center;
     padding-left: 10px;
     list-style-type: none;
-    /*border: 1px solid black /*#666*
-  color: black;
   /* 定義 */
     cursor: pointer;
     vertical-align: top;
@@ -1021,7 +944,6 @@ background: #bbb;
     margin-left: 25%;
     margin-right: 10%;
     padding: 0;
-    /*border: 1px solid #ddd;*/
     line-height: 1;
     background: url(images/) repeat-x bottom;
   }
@@ -1030,9 +952,7 @@ background: #bbb;
     display: block;
   }
   nav li {
-    /*display: flex;*/
     float: left;
-    /*border-right: 1px solid #ddd;*/
     margin-left: 10%;
   }
   nav a {
@@ -1051,8 +971,7 @@ background: #bbb;
 
   #slider1 {
     /*.swiper-slide*/
-    /*text-align: center;*/
-    font-size: 18px; /*18*/
+    /*font-size: 18px; /*18*/
     background: #fff;
     color: #fff;
 
@@ -1088,16 +1007,12 @@ background: #bbb;
     height: 300px;
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
-    /*padding-top:200px;*/
     position: absolute;
     z-index: 2;
   }
   .p-slider1 {
     top: 200px;
     left: 60px;
-    /*margin-top: 150px;
-    margin-left: 20%;
-    /*margin-right: 100%; /*1000px*/
     color: white;
     font-size: 27px;
     position: absolute;
@@ -1127,7 +1042,6 @@ background: #bbb;
   .swiper-pagination {
     display: block;
     color: black;
-    /*margin-bottom: 350px; /*150px*/
     top: 520px;
     height: 50px;
   }
@@ -1138,8 +1052,6 @@ background: #bbb;
   .side {
     float: left;
     padding-top: 20px;
-    /*padding-bottom: -20px;
-  /*width: 100%;*/
     height: 60px;
   }
 
@@ -1148,8 +1060,6 @@ background: #bbb;
     font-family: Arial;
     top: -55px;
     left: 160px; /*200px*/
-
-    /*width: 1000px;*/
   }
 
   .custom-select select {
@@ -1225,26 +1135,17 @@ background: #bbb;
   }
 
   .swiper-container-slider2 {
-    /*display: block;*/
-    /*max-width: 850px;*/
     overflow-x: hidden; /*auto*/
     width: 100%; /*70% 600px 100%*/
     height: 400px; /*100% 300px*/
-    /*padding-bottom: 50px;*/
-    /*margin-top: 20px;*/
     padding-top: 20px;
-    /*padding-left: 10px;
-/*padding: 100px;*/
-    /*float: left;*/
   }
   #wrapper-slider2 {
     width: 100%;
     height: 250px;
-    /*padding-left: 20px;*/
   }
   #slider2 {
     font-size: 18px; /*18*/
-    /*background: #fff;*/
     color: #fff;
     float: left;
   }
@@ -1260,7 +1161,6 @@ background: #bbb;
     color: black;
     padding: 5px;
     background-color: rgb(219, 219, 219, 0);
-    /*border-radius: 30px;*/
     border: 2px solid rgb(219, 219, 219, 0);
   }
 
@@ -1281,7 +1181,6 @@ background: #bbb;
   }
 
   .c-banner--overlay a {
-    /*width: 70%; /*200px*/
     text-decoration: none;
   }
   .c-banner-link {
@@ -1388,15 +1287,12 @@ background: #bbb;
     overflow-x: hidden; /*auto　画面幅ぴったりになる　広がらない*/
     margin-left: 10px;
     margin-right: 10px;
-    /*display: none;*/
   }
   .swiper-container-slider1-big {
     display: none;
   }
   .swiper-container-slider1-smartphone {
     display: none;
-    /*width: 100%; 
-    height: 350px; /*100%*/
   }
 
   main {
@@ -1404,9 +1300,7 @@ background: #bbb;
     width: 100%; /*70% 1000px 700px　70%*/
     height: 900px; /*500px*/
     margin-top: 50px;
-    /*margin-right: 10px;*/
     padding-left: 10px;
-    /*background: lightcyan;*/
   }
   #sub {
     display: none;
@@ -1416,8 +1310,6 @@ background: #bbb;
     overflow-x: hidden; /*auto*/
     width: 90%; /*70% 600px 100%*/
     height: 400px; /*100% 300px*/
-    /*padding-bottom: 50px;*/
-    /*margin-top: 20px;*/
     padding-top: 20px;
   }
   #wrapper-slider2 {
@@ -1513,27 +1405,13 @@ background: #bbb;
 
   .container {
     display: flex;
-    /*float: left;*/
     flex-wrap: wrap;
     justify-content: space-around;
     width: 100%;
     margin: 5px 0;
     padding-top: 10px;
-    
-    /*margin-right:10px;*/
   }
-  /*#search {
-    margin-top: 50px;
-    margin-left: 20%;
-    margin-right: 20%;
-  }
-  #search input[type="text"] {
-    border: none;
-    background: #fff;
-    padding: 8px;
-    border-radius: 5px;
-  }*/
-
+ 
   #search input {
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -1863,20 +1741,20 @@ background: #bbb;
     align-items: center;
   }
   #slider1 a {
-    width: 320px;
+    width: 360px;
     height: 280px;
     position: absolute;
     z-index: 2;
   }
   #image-slider1 {
-    width: 320px; /*500px*/
+    width: 360px; /*500px*/
     height: 280px; /*300px*/
     position: relative;
     z-index: 1;
     box-shadow: 0px 0px 18px rgba(151, 151, 151, 0.2);
   }
   #box {
-    width: 320px;
+    width: 360px;
     height: 280px;
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
@@ -1885,15 +1763,11 @@ background: #bbb;
     z-index: 2;
   }
   .p-slider1 {
-    /*margin-top: 150px;*/
     top: 200px;
     left: 60px;
-    /*top: 150px;
-    margin-left: 20%;
-    /*margin-right: 100%; /*1000px*/
     text-align: left;
     color: white;
-    font-size: 22px;
+    font-size: 20px;
     position: absolute;
     z-index: 3;
   }
@@ -2021,37 +1895,17 @@ background: #bbb;
     background: #dcdcdc;
     padding: 8px; /*8px*/
   /*border-radius: 5px;
-  }
-  /*.keyword {
-    margin-left: 20px;
-    height: 30px;
-    border: none;
-    background: #dcdcdc;
-    padding: 8px;
-    border-radius: 5px;
   }*/
   .option- {
     border: none;
     background-color: #fff;
     appearance: none;
   }
-  /*.option-:focus,
-  .option-:active
-  /*.option-:checked
-  /*option.selection {
-    /*border: none;
-    color: red;
-    background-color: gray;
-  }*/
+  
   select:focus option:checked:hover {
     background-color: rgb(53, 140, 61);
   }
-  /*option:hover {
-    background: #fff;
-  }*/
-  /*select option[selected] {
-    background: #ccc;
-  }*/
+ 
   select.decorated option:hover {
     background-color: black;
   }
@@ -2061,29 +1915,19 @@ background: #bbb;
   }
 
   .swiper-container-slider2 {
-    /*display: block;*/
-    /*max-width: 850px;*/
     overflow-x: hidden; /*auto*/
     width: 100%; /*70% 600px 100%*/
     height: 320px; /*100% 300px*/
-    /*padding-bottom: 50px;*/
-    /*margin-top: 20px;*/
     padding-top: -10px;
     padding-left: 10px;
-    /*padding-left: 10px;
-/*padding: 100px;*/
-    /*float: left;*/
   }
   #wrapper-slider2 {
     width: 100%;
     height: 250px;
-    /*padding-left: 20px;*/
   }
   #slider2 {
     /*.swiper-slide*/
-    /*text-align: center;*/
     font-size: 18px; /*18*/
-    /*background: #fff;*/
     color: #fff;
     float: left;
     padding-left:8px;
@@ -2101,7 +1945,6 @@ background: #bbb;
   }
 
   .c-banner--overlay a {
-    /*width: 70%; /*200px*/
     text-decoration: none;
   }
   .c-banner-link {
@@ -2113,8 +1956,6 @@ background: #bbb;
     z-index: 2;
     margin-top: 0%; /*top: 100%*/
     margin-left: 0%; /*left: 38.5%*/
-    /*background: red;
-    color: yellow;*/
     padding: 10px;
   }
   #rank0 {
