@@ -351,7 +351,7 @@ footer {
     z-index: 2;
   }
   .p-slider1 {
-    top: 200px;
+    top: 180px;
     left: 80px;
     text-align: left;
     color: white;
@@ -993,7 +993,7 @@ background: #bbb;
     width: 500px;
     height: 300px;
     position: absolute;
-    z-index: 2;
+    z-index: 3;
   }
   #image-slider1 {
     width: 500px; /*500px*/
@@ -1011,7 +1011,7 @@ background: #bbb;
     z-index: 2;
   }
   .p-slider1 {
-    top: 200px;
+    top: 180px;
     left: 60px;
     color: white;
     font-size: 27px;
@@ -1744,7 +1744,7 @@ background: #bbb;
     width: 360px;
     height: 280px;
     position: absolute;
-    z-index: 2;
+    z-index: 3;
   }
   #image-slider1 {
     width: 360px; /*500px*/
@@ -1763,11 +1763,11 @@ background: #bbb;
     z-index: 2;
   }
   .p-slider1 {
-    top: 200px;
+    top: 180px;
     left: 60px;
     text-align: left;
     color: white;
-    font-size: 20px;
+    font-size: 22px;
     position: absolute;
     z-index: 3;
   }
